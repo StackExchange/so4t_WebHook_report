@@ -1,0 +1,16 @@
+type,channel,tags,activities,creator,creation_date
+Slack,#ask-engineers,"feature-engineering, google-app-engine, systems-engineering, google-kubernetes-engine","questions, answers",Isabella H.,May 12 at 15:11
+Slack,#help-aws,"amazon-web-services, aws","questions, answers",Vania,"Mar 28, 2022 at 16:12"
+Slack,#product-support,product-support,"accepted answers, questions, answers",Michael P.,"Oct 9, 2020 at 19:15"
+Slack,@Jonathan K.,amazon-web-services,"questions, answers",Jonathan K.,15 hours ago
+Slack,@Mits K.,@mentions,,Mits K.,"Feb 4, 2021 at 21:26"
+Slack,@Vania,@mentions,,Vania,"Jun 17, 2021 at 21:22"
+MicrosoftTeams,AWS > Database Monitoring,db-monitoring,"questions, answers",Jason L.,Jul 21 at 20:15
+MicrosoftTeams,Engineering > Architecture Review Group,architecture-review,"edited questions, questions, answers",Jason L.,"Nov 10, 2022 at 14:52"
+MicrosoftTeams,Engineering > DevOps - Questions,cicd,"edited questions, updated answers, questions, answers",Josh W.,"Oct 13, 2022 at 16:25"
+MicrosoftTeams,Engineering > IT Support,"it-support, ist","edited questions, updated answers, questions, answers",Josh W.,"Feb 8, 2022 at 19:54"
+MicrosoftTeams,Engineering > Platform Engineering,"aws, kubernetes, github, amazon-web-services, kube","edited questions, updated answers, accepted answers, questions, answers, comments",Vania,"Sep 21, 2021 at 17:51"
+MicrosoftTeams,Engineering > UI Software Development,javascript,"questions, answers",John,Jul 13 at 9:40
+MicrosoftTeams,self,"in, ML/AI, Guild",questions,Evelin,Jul 19 at 8:54
+MicrosoftTeams,self,machine-learning,"edited questions, questions",Rob A,Apr 20 at 16:20
+MicrosoftTeams,self,hr,"questions, answers",Ilana Y,Apr 19 at 17:29
