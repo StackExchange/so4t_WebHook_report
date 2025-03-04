@@ -1,6 +1,6 @@
 '''
-This Python script is offered with no formal support. 
-If you run into difficulties, reach out to the person who provided you with this script.
+This Python script is a working proof of concept example of using Stack Overflow APIs for a Webhook Report. 
+If you run into difficulties, please leave feedback in the Github Issues.
 '''
 
 # Standard libraries
