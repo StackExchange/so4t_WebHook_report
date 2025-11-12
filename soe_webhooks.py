@@ -1,5 +1,5 @@
 '''
-This Python script is a working proof of concept example of using Stack Overflow APIs for a Webhook Report. 
+This Python script is a working proof of concept example of using Stack Internal APIs for a Webhook Report. 
 If you run into difficulties, please leave feedback in the Github Issues.
 '''
 
@@ -32,12 +32,12 @@ def get_args():
     parser = argparse.ArgumentParser(
         prog='soe_webhooks.py',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        description='Gathers webhook data from Stack Overflow Enterprise and exports it to a CSV file.',
+        description='Gathers webhook data from Stack Internal (Enterprise) and exports it to a CSV file.',
         epilog = 'Example usage:\n'
-                'python3 so4t_tag_report.py --url "https://SUBDOMAIN.stackenterprise.co"')
+                'python3 soe_webhooks.py --url "https://SUBDOMAIN.stackenterprise.co"')
     parser.add_argument('--url', 
                         type=str,
-                        help='[REQUIRED] Base URL for your Stack Overflow for Teams instance')
+                        help='[REQUIRED] Base URL for your Stack Internal instance')
 
     return parser.parse_args()
 
@@ -49,7 +49,7 @@ def validate_args(args):
         print("See --help for more information")
         raise SystemExit
     if "stackoverflowteams.com" in args.url:
-        print("This script only works for Stack Overflow Enterprise. Sorry.")
+        print("This script only works for Stack Internal (Enterprise). Sorry.")
         raise SystemExit
 
 
